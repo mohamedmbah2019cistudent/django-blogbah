@@ -1,0 +1,5 @@
+*.sqlite3
+*.pyc
+*v77xs
+.~c9
+_pycache_/
